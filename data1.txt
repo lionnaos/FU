@@ -1,0 +1,11 @@
+CourseId:27
+UserId:17061
+SessionId:C2E7569B7F160B23D2550EDAAD6031E578BFB681C22EE2B3
+GreadId:2
+Location:2873.1
+Sessiontime:00:00:01
+ScormOrVideo:170
+Systime:1519957037064
+CourseCode:QS1512443301003
+Duration:2876.5
+Coursename:做新时期合格空管人
